@@ -1,10 +1,9 @@
+# 机器学习
 
-## Assets
+* [01概述]()
+  * [1.1机器学习概述](mechinelearning/01概述/1.1机器学习概述.md)
+* [02线性回归]()
+  * [线性回归原理](mechinelearning/02线性回归/线性回归原理.md)
 
 
-## Mechinelearning
 
-- [01概述]()
-    - [1.1机器学习概述](mechinelearning/01概述/1.1机器学习概述.md)
-- [02线性回归]()
-    - [线性回归原理](mechinelearning/02线性回归/线性回归原理.md)
