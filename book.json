@@ -1,4 +1,5 @@
 {
+    "title":"Xd笔记梳理",
     "plugins": [
         "-lunr",
         "-search",
