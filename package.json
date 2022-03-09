@@ -1,0 +1,31 @@
+{
+  "name": "books",
+  "version": "1.0.0",
+  "description": "xiedong books",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-plugin-back-to-top-button": "^0.1.4",
+    "gitbook-plugin-hide-element": "^0.0.4",
+    "gitbook-plugin-code": "^0.1.0",
+    "gitbook-plugin-expandable-chapters": "^0.2.0",
+    "gitbook-plugin-search-pro": "^2.0.2",
+    "gitbook-plugin-summary": "^1.1.0",
+    "gitbook-plugin-tbfed-pagefooter": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+     "serve": "gitbook serve --port 8080",
+    "build": "gitbook build"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simple-Coder/books.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Simple-Coder/books/issues"
+  },
+  "homepage": "https://github.com/Simple-Coder/books#readme"
+}
