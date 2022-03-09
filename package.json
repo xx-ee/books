@@ -5,18 +5,17 @@
   "main": "index.js",
   "dependencies": {
     "gitbook-plugin-back-to-top-button": "^0.1.4",
-    "gitbook-plugin-hide-element": "^0.0.4",
     "gitbook-plugin-code": "^0.1.0",
     "gitbook-plugin-expandable-chapters": "^0.2.0",
+    "gitbook-plugin-hide-element": "^0.0.4",
     "gitbook-plugin-search-pro": "^2.0.2",
     "gitbook-plugin-summary": "^1.1.0",
     "gitbook-plugin-tbfed-pagefooter": "^0.0.1"
   },
   "devDependencies": {},
   "scripts": {
-     "serve": "gitbook serve --port 8080",
+    "serve": "gitbook serve --port 8080",
     "build": "gitbook build"
-
   },
   "repository": {
     "type": "git",

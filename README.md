@@ -1,8 +1,14 @@
-# 笔记梳理
+# Xiedong_Notes
 
-* B站
-* [博客](https://www.cnblogs.com/rmxd/)或[http://www.xdblog.site/toBlog](http://www.xdblog.site/toBlog)
-* [谢冬的GitHub](https://github.com/Simple-Coder)
+> 生命就像盒子里的巧克力糖，你永远不知道下一颗是什么味道。
 
 
+
+* [B站](http://www.xdblog.site/toBili)
+
+* [博客](http://www.xdblog.site/toBlog)
+
+* [GitHub](https://github.com/Simple-Coder)
+
+  emmm...loading
 
