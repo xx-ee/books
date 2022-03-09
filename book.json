@@ -1,0 +1,27 @@
+{
+    "plugins": [
+        "-lunr",
+        "-search",
+        "search-pro",
+        "code",
+        "expandable-chapters",
+        "back-to-top-button",
+        "tbfed-pagefooter",
+        "hide-element",
+        "-sharing",
+        "summary"
+    ],
+    "title": "Xiedong笔记梳理",
+    "pluginsConfig": {
+        "tbfed-pagefooter": {
+            "copyright":"",
+            "modify_label": "最后修改时间:",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "hide-element":{
+            "elements":[".gitbook-link"]
+        }
+
+    }
+  }
+  
