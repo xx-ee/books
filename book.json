@@ -9,8 +9,7 @@
         "back-to-top-button",
         "tbfed-pagefooter",
         "hide-element",
-        "-sharing",
-        "summary"
+        "-sharing"
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
