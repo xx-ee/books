@@ -10,7 +10,8 @@
         "tbfed-pagefooter",
         "hide-element",
         "-sharing",
-        "summary"
+        "summary",
+        "disqus"
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
