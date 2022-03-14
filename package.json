@@ -8,8 +8,12 @@
     "gitbook-plugin-code": "^0.1.0",
     "gitbook-plugin-expandable-chapters": "^0.2.0",
     "gitbook-plugin-hide-element": "^0.0.4",
+    "gitbook-plugin-katex": "^1.1.4",
+    "gitbook-plugin-mathjax": "^2.0.0",
+    "gitbook-plugin-mathjax-pro": "0.0.6",
     "gitbook-plugin-search-pro": "^2.0.2",
-    "gitbook-plugin-tbfed-pagefooter": "^0.0.1"
+    "gitbook-plugin-tbfed-pagefooter": "^0.0.1",
+    "mathjax": "^2.7.7"
   },
   "devDependencies": {},
   "scripts": {

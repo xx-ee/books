@@ -9,7 +9,8 @@
         "back-to-top-button",
         "tbfed-pagefooter",
         "hide-element",
-        "-sharing"
+        "-sharing",
+		"mathjax-pro"
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
@@ -19,6 +20,9 @@
         },
         "hide-element":{
             "elements":[".gitbook-link"]
+        },
+		"mathjax-pro":{
+            "version": "2.7.7"
         }
 
     }
