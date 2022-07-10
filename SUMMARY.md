@@ -3,9 +3,12 @@
   - [2.线性回归](01机器学习\02线性回归\2.1线性回归.md)
 - 常用工具
   - [Maven](02常用工具\01Maven\maven.md)
+  - [Linux常用命令](05Linux\常用命令.md)
 - 数据库
   - [BCNF记录](03数据库\BCNF记录.md)
   - [MySQL](03数据库\MySQL数据库笔记.md)
+- MQ
+  - [RocketMQ](04MQ\RocketMQ.md)
 - MySQL
   - [第04章_逻辑架构](03数据库\ksf\第04章_逻辑架构.md)
   - [第07章_InnoDB数据存储结构](03数据库\ksf\第07章_InnoDB数据存储结构.md)
