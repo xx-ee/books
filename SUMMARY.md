@@ -11,6 +11,8 @@
   - RocketMQ
     - [01_RocketMQ概述](04MQ\RocketMQ\01_RocketMQ概述.md)
     - [02_RocketMQ的安装与启动](04MQ\RocketMQ\02_RocketMQ的安装与启动.md)
+    - [03_RocketMQ工作原理](04MQ\RocketMQ\03_RocketMQ工作原理.md)
+    - [04_RocketMQ应用](04MQ\RocketMQ\04_RocketMQ应用.md)
 - MySQL
   - [04_逻辑架构](03数据库\ksf\第04章_逻辑架构.md)
   - [07_InnoDB数据存储结构](03数据库\ksf\第07章_InnoDB数据存储结构.md)
