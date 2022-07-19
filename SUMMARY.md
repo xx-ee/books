@@ -3,7 +3,10 @@
   - [2.线性回归](01机器学习\02线性回归\2.1线性回归.md)
 - 常用工具
   - [Maven](02常用工具\01Maven\maven.md)
+  - [Gradle]()
   - [Linux常用命令](05Linux\常用命令.md)
+  - Docker
+    - [MySQL安装](05Linux\02Docker\01MySQL安装.md)
 - 数据库
   - [BCNF记录](03数据库\BCNF记录.md)
   - [MySQL](03数据库\MySQL数据库笔记.md)
