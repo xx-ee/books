@@ -49,3 +49,10 @@ mvn -v
 
 ```
 
+## 2、安装本地
+
+```
+mvn install:install-file -Dfile=mq-client-open-4.9.2.jar -DgroupId=com.sohu.tv -DartifactId=mq-client-open -Dversion=4.9.2 -Dpackaging=jar
+
+```
+
